@@ -1,5 +1,5 @@
 
-Here’s a GitHub README template for your Voice Control Using Hand Recognition project:
+
 
 🖐️🎙️ Voice Control Using Hand Recognition
 A project that integrates OpenCV and machine learning to enable voice command control through hand gesture recognition. This system identifies specific hand gestures via a webcam and triggers corresponding voice commands for seamless interaction.
